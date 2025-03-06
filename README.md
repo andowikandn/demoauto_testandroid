@@ -13,3 +13,5 @@ ANDROID HOME
 C:\Users\ahmad\AppData\Local\Android\Sdk\
 JAVA HOME
 C:\Program Files\Java\jdk-23\
+
+Screen record: https://drive.google.com/file/d/1LgghLwCofGhXaYFpiv_wkalnItIn1EcZ/view?usp=sharing
