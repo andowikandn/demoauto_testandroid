@@ -1,15 +1,16 @@
-Prepare to test you must have need this:
+Prepare to execute you must have need this:
 - ADB Android Debugging Bridge
 - Node.js, Java, SDK
 - Python 
 - Android studio optional
 - Appium Server & Client
 - Appium Inspector
+- DemoApk Install
 - Nox Player for emulator
 - Devices Android
 - Visual studio code as editor code
 
-Environment Variables Path
+Environment Variables Path:
 ANDROID HOME
 C:\Users\ahmad\AppData\Local\Android\Sdk\
 JAVA HOME
