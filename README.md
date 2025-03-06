@@ -1,6 +1,6 @@
 Prepare to test you must have need this:
 - ADB Android Debugging Bridge
-- Node.js
+- Node.js, Java, SDK
 - Android studio optional
 - Appium Server & Client
 - Appium Inspector
